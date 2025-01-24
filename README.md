@@ -28,7 +28,7 @@ Sales Revenue ($) = # of Units Sold x Avg.Selling Price
 ![Image](https://github.com/user-attachments/assets/bc4f2993-04a6-4399-8643-4a48e0ec0fdb)
 
 ## 2. Opportunity 1: More Customers (New Customers + Retain Customers)
-2.1 Increasing New Customers:
+**2.1 Increasing New Customers:**
 
 **Situation:** 
 
@@ -45,6 +45,20 @@ From January 2018 to August 2018, the number of new customers slightly decreased
 **Recommendation:**
 
 Olist needs to implement additional marketing strategies to attract more new customers in order to achieve a 10% revenue growth in the next year.
+
+**Analyze top cities with the highest performance and top best-selling products**
+
+
+Strengthen marketing and promotional strategies in Sao Paulo (the area with the highest demand) for bath table and health beauty products to attract new customers.
+
+![Image](https://github.com/user-attachments/assets/1424d139-a801-4429-b4e9-b4f4c6e7d33f)
+
+![Image](https://github.com/user-attachments/assets/eefcadac-dc19-4633-8690-2a2b52b18c7c)
+
+
+Sao Paulo is the city with the highest concentration of Olist customers. The product lines that are most in demand in this area are bed bath tables and health beauty products.
+
+Since Sao Paulo is the area with the highest concentration of customers and strong demand for bed bath tables, it is important to leverage the current momentum by developing a marketing/promotion strategy targeting Sao Paulo with bath table and health beauty products to attract more new customers.
 
 
 
