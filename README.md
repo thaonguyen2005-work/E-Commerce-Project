@@ -83,9 +83,9 @@ From 2016 to 2018, Olist made improvements in total time (dispatch time & delive
 
 To enhance customer satisfaction, Olist needs to further reduce order processing time by:
 
-Optimizing the order preparation process
+- Optimizing the order preparation process
 
-Improving delivery efficiency
+- Improving delivery efficiency
 
 **Analyze the reasons for the long order dispatch times in MA, RN, and MS, and issue warnings to high-revenue merchants with a high rate of late orders to reduce order dispatch time.**
 
