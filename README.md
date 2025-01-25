@@ -61,6 +61,8 @@ Since Sao Paulo is the area with the highest concentration of customers and stro
 
 Only about 0.4% of customers want to return to make a purchase after their first purchase. 
 
+**Customer Retention Rate Over Time**
+
 ![Image](https://github.com/user-attachments/assets/7c7ca1fe-6f4f-41a7-8b26-c2d41751fe16)
 
 Olist is not doing well in retaining customers and needs to take measures to improve the customer experience, including:
