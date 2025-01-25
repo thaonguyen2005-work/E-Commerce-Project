@@ -166,7 +166,7 @@ Olist needs to encourage customers to make more purchases in order to achieve th
 
 **Heatmap of Order Frequencies by Hour:**
 
-![Image](https://github.com/user-attachments/assets/bf87fe8b-33f7-4b29-9324-37391b36efb5
+![Image](https://github.com/user-attachments/assets/b95f3a76-d271-4709-8d9e-a11e0652cab6)
 
 **Insights:**
 
