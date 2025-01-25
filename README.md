@@ -4,9 +4,9 @@
 Olist is an e-commerce site of Brazil which provides a better platform to connect merchants and their product to the main marketplace of Brazil.
 It provides good services for the merchants to sell their products through the Olist Store and ship them directly to the customers using Olist 
 logistics partners.Its business is based on interaction between consumer, Olist store and the seller.At first an order is made by the consumer on 
-the olist site. This order is received by olist store ,based on the information of the order (like product category,geolocation,mode of payment e.t.c) 
+the olist site. This order is received by olist store, based on the information of the order (like product category, geolocation, mode of payment e.t.c) 
 a notification is forwarded to the sellers. After that product is received from the seller and delivered to the consumer within the estimated delivery
-time. Once the customer receives the product,or if the estimated delivery date is due, the customer gets a satisfaction survey by email where he/she can give 
+time. Once the customer receives the product, or if the estimated delivery date is due, the customer gets a satisfaction survey by email where he/she can give 
 a note for the purchase experience and write down some comments. 
 
 The data-set has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing an order from multiple 
