@@ -27,7 +27,7 @@ Sales Revenue ($) = # of Units Sold x Avg.Selling Price
 
 ![Image](https://github.com/user-attachments/assets/bc4f2993-04a6-4399-8643-4a48e0ec0fdb)
 
-## 2. Opportunity 1: More Customers (New Customers + Retain Customers)
+## 2. Opportunity 1: More Customers (New Customers + Retaining Existing Customers)
 **2.1 Increasing New Customers:**
 
 **Situation:** 
