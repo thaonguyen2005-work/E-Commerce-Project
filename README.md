@@ -1,5 +1,7 @@
 # E-Commerce Project
 
+## Slide deck for The E-Commerce Case Study Project: https://docs.google.com/presentation/d/1hfMyddgi850zMUkGgIOyqTZ6-R6xMRsQTxrX0VR96RQ/edit#slide=id.g2e3f8de059b_2_133
+
 ## About Olist Store Case Study
 Olist is an e-commerce site of Brazil which provides a better platform to connect merchants and their product to the main marketplace of Brazil. It provides good services for the merchants to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. Its business is based on interaction between consumer, Olist store and the seller. At first an order is made by the consumer on the olist site. This order is received by olist store, based on the information of the order (like product category, geolocation, mode of payment e.t.c) a notification is forwarded to the sellers. After that product is received from the seller and delivered to the consumer within the estimated delivery time. Once the customer receives the product, or if the estimated delivery date is due, the customer gets a satisfaction survey by email where he/she can give a note for the purchase experience and write down some comments. 
 
